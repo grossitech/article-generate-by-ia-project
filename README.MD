@@ -10,7 +10,7 @@
 
 <p align="center">
   <img 
-    src="assets\Sua carreira à prova do futuro - por que profissionais de todas as áreas precisam entender de Blockchain - kindle.png"
+    src="assets\Sua carreira à prova do futuro - kindle.png"
     width="400"  
   />
 </p>
@@ -21,6 +21,8 @@
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante curso no qual fui aluno na plataforma da [DIO](https://dio.me), do professor [Felipe Aguiar](https://github.com/felipeAguiarCode/). 
  
  >README.md baseado no do [README.md professor](https://github.com/felipeAguiarCode/prompts-for-article-generate-by-ia/blob/main/README.MD).
+
+ > **FOR ENGLISH VERSION**: [Click here](README.en.MD)
 
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
 
@@ -121,7 +123,7 @@ Depois de explicar a importância e o impacto, este bloco deve oferecer um guia 
 
 Finalize o artigo reforçando a mensagem principal. Recapitule que a blockchain é uma onda de inovação que impactará processos, modelos de negócio e, consequentemente, carreiras. Enfatize que a adaptação não é mais uma escolha, mas uma necessidade para quem deseja se manter competitivo. Termine com uma chamada à ação inspiradora, encorajando o leitor a ser um agente ativo dessa transformação em sua própria área, vendo a blockchain não como uma ameaça, mas como uma poderosa ferramenta para construir uma carreira verdadeiramente à prova do futuro.
 ```
-
+PROMPT 3:
 ```
 Comporte-se como um escritor de artigos tech blockchain e escreva o Artigo atendendo as regras abaixo:
 
@@ -164,6 +166,7 @@ Após isso, ele gerou o artigo, fiz revisões e [publiquei no site da DIO](https
 
 - Conteúdo gerado via IA
 - Imagens do acervo público geradas via Lexica.art
+- Adobe Firefly para aprimorar a imagem do banner
 
 ## 👨‍💻 Expert
 
