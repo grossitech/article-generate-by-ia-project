@@ -177,7 +177,7 @@ Após isso, ele gerou o artigo, fiz revisões e [publiquei no site da DIO](https
       width=80 
       src="https://avatars.githubusercontent.com/u/188269406"
     />
-    <p>&nbsp&nbsp&nbsp&nbspLuciano Grossi<br>
+    <p>&nbsp&nbsp&nbsp&nbspLuciano Grossi<br/><br/>
     &nbsp&nbsp&nbsp
     <a href="https://www.linkedin.com/in/lucianogrossi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://github.com/grossitech"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
