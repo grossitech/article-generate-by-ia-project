@@ -169,8 +169,6 @@ Após isso, ele gerou o artigo, fiz revisões e [publiquei no site da DIO](https
 - Adobe Firefly para aprimorar a imagem do banner
 
 ## 👨‍💻 Expert
-
-<p>
     <img 
       align=left 
       margin=10 
@@ -183,4 +181,3 @@ Após isso, ele gerou o artigo, fiz revisões e [publiquei no site da DIO](https
     <a href="https://twitter.com/lucianogrossi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
     <a href="https://www.linkedin.com/in/lucianogrossi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     &nbsp;</p>
-</p>
