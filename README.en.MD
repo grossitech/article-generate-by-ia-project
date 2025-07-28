@@ -168,21 +168,18 @@ After that, it generated the article, I made revisions and [published it on the 
 
 ## 👨‍💻 Expert
 
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/188269406"
-    />
-    <p>&nbsp&nbsp&nbsp&nbspLuciano Grossi<br>
+<img 
+  align=left 
+  margin=10 
+  width=80 
+  src="https://avatars.githubusercontent.com/u/188269406"
+/>
+<p>&nbsp&nbsp&nbsp&nbspLuciano Grossi<br/><br/>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/grossitech">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="https://www.linkedin.com/in/lucianogrossi">LinkedIn</a>
-&nbsp;</p>
+    <a href="https://github.com/grossitech"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+    <a href="https://twitter.com/lucianogrossi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+    <a href="https://www.linkedin.com/in/lucianogrossi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
-<br/><br/>
 <p>
 
 ---
