@@ -181,7 +181,3 @@ After that, it generated the article, I made revisions and [published it on the 
     <a href="https://www.linkedin.com/in/lucianogrossi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 <p>
-
----
-
-⌨️ with 💜 by [Luciano Grossi](https://github.com/grossitech)
